@@ -52,3 +52,13 @@ h1,h2,h3{
     margin: 25px 0;
     cursor: pointer;
 }
+
+.btnsm{
+  padding: 8px 17px;
+  background: black;
+  color: white;
+  font-weight: 900;
+  border: 2px solid gray;
+  border-radius: 8px;
+  cursor: pointer;
+}
